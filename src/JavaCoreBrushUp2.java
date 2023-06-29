@@ -33,6 +33,7 @@ public class JavaCoreBrushUp2 {
 		a.add("Sanchez");
 		a.add("Seguin");
 		a.add("Texas");
+		a.add("Tzzzexas");
 		a.remove(3);
 		System.out.println(a.get(2));
 		

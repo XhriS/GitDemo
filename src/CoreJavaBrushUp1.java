@@ -24,6 +24,8 @@ public class CoreJavaBrushUp1 {
 		//Static Array
 		int [] arr2 = {1,2,3,4,5, 10, 15, 20};
 		String [] name = {"Name", "LastName", "Age"};
+		String [] name2 = {"Name", "LastName", "Age"};
+
 		//System.out.println(arr2[2]);
 		
 		//for loop
