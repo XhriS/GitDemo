@@ -15,6 +15,9 @@ public class MethodsDemo {
 	//static methods will be part of the class, not object. It will move the method to class level access.
 	public String getData() {
 		System.out.println("Hello Mundo");
+		System.out.println("Git Demo Message Master SeleniumCourseworkspace");
+		System.out.println("Git Demo Message Master SeleniumCourseworkspace");
+
 		return "Christian";
 	}
 	
